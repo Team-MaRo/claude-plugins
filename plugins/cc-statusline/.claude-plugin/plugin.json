@@ -1,10 +1,16 @@
 {
   "name": "cc-statusline",
   "description": "Exposes the cc-statusline MCP server (context usage, rate limits, session summary) to Claude Code. Requires the cc-statusline binary on PATH.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Team-MaRo"
   },
   "homepage": "https://github.com/Team-MaRo/cc-statusline",
-  "keywords": ["mcp", "statusline", "cc-statusline", "context", "rate-limits"]
+  "keywords": [
+    "mcp",
+    "statusline",
+    "cc-statusline",
+    "context",
+    "rate-limits"
+  ]
 }
