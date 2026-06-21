@@ -1,0 +1,5 @@
+.claude/settings.local.json
+.idea/
+
+# Local Claude pointer (canonical guidance is in AGENTS.md)
+/CLAUDE.md
