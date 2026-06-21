@@ -1,0 +1,14 @@
+{
+  "name": "team-maro",
+  "description": "Team-MaRo Claude Code plugin marketplace",
+  "owner": {
+    "name": "Team-MaRo"
+  },
+  "plugins": [
+    {
+      "name": "cc-statusline",
+      "source": "./plugins/cc-statusline",
+      "description": "MCP server for cc-statusline — read-only access to context usage, rate-limit snapshots, and session cost/token summaries"
+    }
+  ]
+}
