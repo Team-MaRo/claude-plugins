@@ -6,5 +6,11 @@
     "name": "Team-MaRo"
   },
   "homepage": "https://github.com/Team-MaRo/cc-statusline",
-  "keywords": ["mcp", "statusline", "cc-statusline", "context", "rate-limits"]
+  "keywords": [
+    "mcp",
+    "statusline",
+    "cc-statusline",
+    "context",
+    "rate-limits"
+  ]
 }
